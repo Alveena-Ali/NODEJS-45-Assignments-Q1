@@ -1,0 +1,9 @@
+Que 1: Install Node.js, TypeScript and VS Code on your computer.
+
+Install [Node.js] (https://nodej.org/en/), [Typescript] (https://www.typescriptlang.org/download) and
+[VS Code] (https://code.Visualstudio.com/) on your computer/Laptop.
+
+1. https://code.visualstudio.com/download for (vs code)
+2. node.js.org/en/download for (node.js)
+3. npm i -g typescript for (typescript)
+4. tsc -- init for (tsconfig.json)
